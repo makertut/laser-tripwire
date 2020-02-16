@@ -16,7 +16,7 @@ Hardware Required</h4>
 <h4 style="background-color: white; font-family: Merriweather, Georgia, serif; font-size: 16px;">
 <br />Schematic diagram</h4>
 <div>
-  ![Maker Tutor>(https://1.bp.blogspot.com/-A7Wvk_DaVlk/Wl3EsUeVkwI/AAAAAAAA-n8/_3dj6B-DXpA47qlUUGP3WRE-gxzK35DIACLcBGAs/s1600/ldr_sensor_buzzer_bb.jpg)
+  ![Maker Tutor](https://1.bp.blogspot.com/-A7Wvk_DaVlk/Wl3EsUeVkwI/AAAAAAAA-n8/_3dj6B-DXpA47qlUUGP3WRE-gxzK35DIACLcBGAs/s1600/ldr_sensor_buzzer_bb.jpg)
 <br /></div>
 <h3>LED connection</h3>
 LED attach to board
