@@ -17,12 +17,10 @@ The Red wire attach to resistor empty leg → Arduino 5V
 
 <h3>Buzzer Connection</h3>
 1. Buzzer + to pin 12 on Arduino
-
 2. Buzzer -  to GND on Arduino
 
 
 
-Laser Module Connection
+<h3>Laser Module Connection</h3>
 1. Laser module +/s to pin 7 on Arduino
-
 2. Laser module - to GND on Arduino
