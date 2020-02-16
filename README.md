@@ -1,5 +1,22 @@
 # laser-tripwire
 
+Hardware Required</h4>
+<div style="background-color: white; font-family: Merriweather, Georgia, serif; font-size: 16px;">
+<ul style="color: #333333; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px; list-style-image: initial; list-style-position: initial; margin: 0px 0px 9px 25px; padding: 0px;">
+<li style="line-height: normal;">Arduino Uno</li>
+<li style="line-height: normal;">LED</li>
+<li style="line-height: normal;">LDR (photo resistor) , Light Dependent Resistor</li>
+<li style="line-height: normal;">220 and 10k ohm resistors</li>
+<li style="line-height: normal;">Wires</li>
+<li style="line-height: normal;">Breadboard</li>
+<li style="line-height: normal;">Buzzer</li>
+<li style="line-height: normal;">Laser Module</li>
+</ul>
+</div>
+<h4 style="background-color: white; font-family: Merriweather, Georgia, serif; font-size: 16px;">
+<br />Schematic diagram</h4>
+<div>
+<br /></div>
 <h3>LED connection</h3>
 LED attach to board
 Resistor (220 ohm) one leg attach to LED long leg
